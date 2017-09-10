@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <div>
+                @{
+                    var products =
+                        (IEnumerable<SqlDataAccess.Product>)this.ViewData["Products"];
+                    foreach (var product in products)
+                    {
+                        <div>                            
+                                <div style="float:left; margin-right:5px">@product.Name</div>
+                                <div style="clear:right">@product.UnitPrice.ToString()</div>                            
+                        </div>
+                    }                    
+                }                    
+            </div>            
+        </div>
+    </section>
+}

@@ -1,0 +1,12 @@
+D:\Programming\DI_In_NET\DI_In_NET\bin\Debug\DI_In_NET.exe.config
+D:\Programming\DI_In_NET\DI_In_NET\obj\Debug\DI_In_NET.csprojResolveAssemblyReference.cache
+D:\Programming\DI_In_NET\DI_In_NET\bin\Debug\DI_In_NET.exe
+D:\Programming\DI_In_NET\DI_In_NET\bin\Debug\DI_In_NET.pdb
+D:\Programming\DI_In_NET\DI_In_NET\obj\Debug\DI_In_NET.exe
+D:\Programming\DI_In_NET\DI_In_NET\obj\Debug\DI_In_NET.pdb
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\bin\Debug\DI_In_NET.exe.config
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\obj\Debug\DI_In_NET.exe
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\obj\Debug\DI_In_NET.pdb
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\bin\Debug\DI_In_NET.exe
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\bin\Debug\DI_In_NET.pdb
+D:\Programming\DI_In_NET\MessageWriter_Sample\DI_In_NET\obj\Debug\DI_In_NET.csprojResolveAssemblyReference.cache

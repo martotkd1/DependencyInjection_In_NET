@@ -1,0 +1,16 @@
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\SqlDataAccess.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\SqlDataAccess.pdb
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\DomainLogic.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\DomainLogic.pdb
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\obj\Debug\SqlDataAccess.csprojResolveAssemblyReference.cache
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\obj\Debug\SqlDataAccess.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\obj\Debug\SqlDataAccess.pdb
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\Data\Database1.sdf
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\SqlDataAccess.dll.config
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.xml
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\System.Data.SqlServerCe.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\SqlDataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml

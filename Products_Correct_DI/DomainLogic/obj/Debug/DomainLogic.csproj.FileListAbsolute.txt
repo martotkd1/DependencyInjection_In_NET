@@ -1,0 +1,13 @@
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\DomainLogic.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\DomainLogic.pdb
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\obj\Debug\DomainLogic.csprojResolveAssemblyReference.cache
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\obj\Debug\DomainLogic.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\obj\Debug\DomainLogic.pdb
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\DomainLogic.dll.config
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\System.Data.SqlServerCe.dll
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.xml
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\DI_In_NET\Products_Correct_DI\DomainLogic\bin\Debug\EntityFramework.SqlServerCompact.xml

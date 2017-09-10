@@ -1,0 +1,14 @@
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\DomainLogic.dll
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\DomainLogic.pdb
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\obj\Debug\DomainLogic.csprojResolveAssemblyReference.cache
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\obj\Debug\DomainLogic.dll
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\obj\Debug\DomainLogic.pdb
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\Database1.sdf
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\Data\Database1.sdf
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\DomainLogic.dll.config
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\EntityFramework.dll
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\SqlDataAccess.dll
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\SqlDataAccess.pdb
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\EntityFramework.xml
+D:\Programming\DI_In_NET\Products_Wrong_DI\DomainLogic\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <h2>Featured Products:</h2>
+            @{
+                foreach (var product in this.Model.Products)
+                {                    
+                    <div>@product.SummaryText</div>
+                }
+            }
+        </div>
+    </section>
+}
