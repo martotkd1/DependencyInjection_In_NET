@@ -17,9 +17,7 @@ namespace WebUI
             Type controllerType = Type.GetType(string.Format("WebUI.Controllers.{0}Controller", controllerName));
             switch (controllerName)
             {
-                case "Home":
-                    var connString =
-                        ConfigurationManager.ConnectionStrings["Database1Entities1"].ConnectionString;
+                case "Home":                    
                     var sqlProductRepository = new SqlDataAccess.SqlProductRepository();
                     controller = Activator.CreateInstance(controllerType, new[] { sqlProductRepository }) as Controller;
                     break;
